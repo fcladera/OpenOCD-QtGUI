@@ -1,0 +1,16 @@
+# Temp files
+~.
+*.tmp
+
+# Meta object code
+*.moc
+moc*
+
+# .h generated from .ui
+ui_*.h
+
+
+# bin and obj
+OpenOCD-QtGUI
+*.o
+
