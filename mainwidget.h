@@ -22,7 +22,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include <QProcess>
 //#include <QtTelnet>
 #include "QtTelnet/qttelnet.h"
-#include <QtGui/QWidget>
+#include <QtWidgets/QWidget>
 #include <QFile>
 
 #define DIR_FILE_NAME "/tmp/oocdqt-recentdir.dat"
